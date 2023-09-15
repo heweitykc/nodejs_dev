@@ -1,3 +1,4 @@
 [submodule "sub1"]
 	path = sub1
 	url = https://github.com/heweitykc/nodejs_dev_sub
+	branch = main
